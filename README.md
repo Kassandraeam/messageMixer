@@ -1,5 +1,5 @@
 # messageMixer
-Exercise from Intermediate JavaScript course on CodeCademy
+Exercise from the Intermediate JavaScript course on CodeCademy
 
 1) Copy all three functions into encryptors.js.
 2) Turn encryptors.js into a module. Inside of that module, assign each encryption function as a property of the module.exports object.
